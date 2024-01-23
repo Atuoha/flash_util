@@ -57,6 +57,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.1"
+  flash:
+    dependency: "direct main"
+    description:
+      name: flash
+      sha256: "1bb5a53158d7834ce0db8b15a0b948ee369698e59c907b751035c3a787f347ac"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -186,3 +194,4 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.4 <4.0.0"
+  flutter: ">=3.16.0"
